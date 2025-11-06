@@ -33,4 +33,4 @@ Dnes doplníme do své existující aplikace funkci přihlášení uživatele a 
     - Uživatel bude přesměrován na přihlašovací stránku.
 
 7. Rozšiř chráněný obsah
-   - Přidej ochranu i na stránku další stránku aplikace.
+   - Přidej ochranu i na další stránku aplikace.
